@@ -1,3 +1,5 @@
+package exam.pattern.strategy;
+
 import exam.pattern.strategy.GameCharacter;
 import exam.pattern.strategy.Knife;
 import exam.pattern.strategy.Sword;
